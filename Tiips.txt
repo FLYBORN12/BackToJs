@@ -1,0 +1,14 @@
+//PARA CREAR EL ARCHIVO DE CONFIGURACION DE TypeScript se usa el comando ->  tsc --init
+
+//Comando para compilar archivos ts a js -> tsc archivo.ts y para agregar watcher es tsc -w *.ts
+
+
+
+protected -> solo puede usarla la propia clase o una que herede
+
+
+
+
+
+
+// TextContent sirve para obtener el valor del NODO
